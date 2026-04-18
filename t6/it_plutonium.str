@@ -66,7 +66,7 @@ LANG_ENGLISH        "Tasto usato per estrarre le mine Claymore."
 // WARNING: Claymore should be capitalized in the English source as well
 
 REFERENCE           MENU_TARGET_ASSIST_DISABLED_INGAME
-LANG_ENGLISH        "Target Assist (aimassist del target) è disabilitata su questo server."
+LANG_ENGLISH        "Target Assist (assistenza alla mira del target) è disabilitata su questo server."
 
 REFERENCE           MENU_GPAD_STICK_DEADZONE_MAX_CAPS
 LANG_ENGLISH        "MASSIMO DEADZONE"
@@ -212,12 +212,11 @@ REFERENCE           SERVER_CONNECT
 LANG_ENGLISH        "Connettiti al server."
 
 REFERENCE           MENU_TARGET_ASSIST
-LANG_ENGLISH        "Aim Assist"
-// Aim Assist si usa in Italiano.
+LANG_ENGLISH        "Assistenza alla Mira"
 
 REFERENCE           MENU_TARGET_ASSIST_HINT
-LANG_ENGLISH        "Permetti l'utilizzo della aim assist per tutti i giocatori con il gamepad."
-// Aim Assist si usa in Italiano. Gamepad è un termine conosciuto per descrivere il <controller> https://it.wikipedia.org/wiki/Gamepad
+LANG_ENGLISH        "Permetti l'utilizzo dell'assistenza alla mira a tutti i giocatori con il gamepad."
+// Gamepad è un termine conosciuto per descrivere il <controller> https://it.wikipedia.org/wiki/Gamepad
 
 REFERENCE           MENU_MINPLAYERS_CAPS
 LANG_ENGLISH        "MINIMO GIOCATORI"
