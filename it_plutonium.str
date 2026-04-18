@@ -56,7 +56,7 @@ REFERENCE           MENU_MOUSE_FIX_POOLINGRATE_HINT
 LANG_ENGLISH        "Riduci il calo di FPS con dispositivi d'input con una frequenza di polling elevata."
 
 REFERENCE           PLATFORM_NEXT_SCORE_STREAK_HINT
-LANG_ENGLISH        "Tasto usato per estrarre l'attrezzatura ."
+LANG_ENGLISH        "Tasto usato per estrarre l'attrezzatura."
 
 REFERENCE           PLATFORM_PREVIOUS_SCORE_STREAK_HINT
 LANG_ENGLISH        "Tasto usato per estrarre il quadrirotore (Solo su Origins)."
