@@ -9,12 +9,10 @@ REFERENCE           MENU_MINPLAYERS_CAPS
 LANG_ENGLISH        "MINIMO GIOCATORI"
 
 REFERENCE           MENU_MINPLAYERS_HINT
-LANG_ENGLISH        "La partita rimarr? sospesa alla schermata di caricamento fino a quando il numero di giocatori sar? raggiunto."
+LANG_ENGLISH        "La partita rimarra' sospesa alla schermata di caricamento fino a quando il numero di giocatori sara' raggiunto."
 
 REFERENCE           MENU_CUSTOMMAPS_CAPS
 LANG_ENGLISH        "MAPPE CUSTOM"
-// La difficolt? nel tradurre letteralmente "mappe custom" in "mappe personalizzate" ? che "personalizzato" come aggettivo non mi convince in questo contesto.
-// Lascio cos? com'?.
 
 REFERENCE           MENU_NOCUSTOMMAPS
 LANG_ENGLISH        "Non sei in possesso di mappe custom."
@@ -27,10 +25,9 @@ LANG_ENGLISH        "SCALA FOV"
 
 REFERENCE           PLATFORM_CONTROLLER_VIBRATION_CAPS
 LANG_ENGLISH        "VIBRAZIONE GAMEPAD"
-// Gamepad ? un termine conosciuto per descrivere il <controller> https://it.wikipedia.org/wiki/Gamepad
 
 REFERENCE           MENU_APPLY_RESTART_GAME
-LANG_ENGLISH        "Per applicare la modifica a questa impostazione, ? necessario riavviare il gioco."
+LANG_ENGLISH        "Per applicare la modifica a questa impostazione, riavvia il gioco."
 
 REFERENCE           MENU_MOUSE_ACCEL_CAPS
 LANG_ENGLISH        "ACCELERAZIONE MOUSE"
@@ -45,11 +42,11 @@ REFERENCE           MENU_MAXFPS_CAPS
 LANG_ENGLISH        "FPS MASSIMI"
 
 REFERENCE           MENU_STREAMER_MODE_CAPS
-LANG_ENGLISH        "MODALIT? STREAMER"
+LANG_ENGLISH        "MODALITA' STREAMER"
 
 REFERENCE           MENU_ENGINE_SLEEPS_CAPS
 LANG_ENGLISH        "RIDUCI SOSPENSIONI DEL PROCESSO"
-// Sostituto <engine> per processo. Sarebbe pi? corretto fare lo stesso in inglese
+// Sostituto <engine> per processo. Sarebbe corretto fare lo stesso in inglese
 
 REFERENCE           MENU_RECORDCLIENTDEMOS_CAPS
 LANG_ENGLISH        "AVVIA REGISTRAZIONE DEMO LATO CLIENT"
