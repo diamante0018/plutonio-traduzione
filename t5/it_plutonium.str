@@ -9,7 +9,7 @@ REFERENCE           MENU_MINPLAYERS_CAPS
 LANG_ENGLISH        "MINIMO GIOCATORI"
 
 REFERENCE           MENU_MINPLAYERS_HINT
-LANG_ENGLISH        "La partita rimarra' sospesa alla schermata di caricamento fino a quando il numero di giocatori sara' raggiunto."
+LANG_ENGLISH        "La partita rimarrà sospesa alla schermata di caricamento fino a quando il numero di giocatori sarà raggiunto."
 
 REFERENCE           MENU_CUSTOMMAPS_CAPS
 LANG_ENGLISH        "MAPPE CUSTOM"
@@ -42,7 +42,7 @@ REFERENCE           MENU_MAXFPS_CAPS
 LANG_ENGLISH        "FPS MASSIMI"
 
 REFERENCE           MENU_STREAMER_MODE_CAPS
-LANG_ENGLISH        "MODALITA' STREAMER"
+LANG_ENGLISH        "MODALITÀ STREAMER"
 
 REFERENCE           MENU_ENGINE_SLEEPS_CAPS
 LANG_ENGLISH        "RIDUCI SOSPENSIONI DEL PROCESSO"

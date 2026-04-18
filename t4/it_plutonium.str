@@ -29,7 +29,7 @@ REFERENCE           MENU_SET_TACTICAL_LAYOUT
 LANG_ENGLISH        "Imposta Schema Tattico"
 
 REFERENCE           MENU_LOOK_SENSITIVITY
-LANG_ENGLISH        "Sensibilita' sguardo"
+LANG_ENGLISH        "Sensibilità sguardo"
 
 REFERENCE           MENU_INVERT_PITCH
 LANG_ENGLISH        "Invertire il Pitch (Beccheggio)"
@@ -65,7 +65,7 @@ REFERENCE           MENU_MAXFPS
 LANG_ENGLISH        "FPS Massimi"
 
 REFERENCE           MENU_STREAMER_MODE
-LANG_ENGLISH        "Modalita' Streamer"
+LANG_ENGLISH        "Modalità Streamer"
 
 REFERENCE           MENU_ENGINE_SLEEPS
 LANG_ENGLISH        "Riduci sospensioni del processo"
