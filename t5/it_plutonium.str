@@ -12,10 +12,10 @@ REFERENCE           MENU_MINPLAYERS_HINT
 LANG_ENGLISH        "La partita rimarrà sospesa alla schermata di caricamento fino a quando il numero di giocatori sarà raggiunto."
 
 REFERENCE           MENU_CUSTOMMAPS_CAPS
-LANG_ENGLISH        "MAPPE CUSTOM"
+LANG_ENGLISH        "MAPPE PERSONALIZZATE"
 
 REFERENCE           MENU_NOCUSTOMMAPS
-LANG_ENGLISH        "Non sei in possesso di mappe custom."
+LANG_ENGLISH        "Non sei in possesso di mappe personalizzate."
 
 REFERENCE           MENU_MOUSE_RAW_INPUT_CAPS
 LANG_ENGLISH        "RAW INPUT"
